@@ -52,6 +52,7 @@ Platforms focused on creating, sharing, and chatting with diverse AI characters.
 | Platform | Key Features | Pricing | Platforms |
 |----------|-------------|---------|-----------|
 | [Character.AI](https://character.ai) | Largest character library (millions), community-created characters, generous free tier | Free / $20/mo | iOS, Android, Web |
+| [WSUP AI](https://wsupai.app/) | Free AI character chat in the browser — talk to AI characters with no sign up. SFW only | Free (no sign up) | Web |
 | [Chai](https://chai.ml) | Swipe-based character discovery, social feed, short-form chat | Freemium | iOS, Android |
 | [JanitorAI](https://janitorai.com) | NSFW-friendly, large character library, multiple LLM backends | Free (BYOK) / Premium | Web |
 | [SpicyChat](https://spicychat.ai) | NSFW focus, character creation tools, persona marketplace | Freemium | Web |
